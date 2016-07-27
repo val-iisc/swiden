@@ -1,13 +1,19 @@
 ### SwiDeN
 
 
-This project is a CAFFE implementation for our ACMMM 2016 [](), which is a novel`deep depictive style-based switching mechanism which appropriately addresses the depiction-specific and depiction-invariant aspects of the problem.
+This project is a CAFFE implementation for our ACMMM 2016 paper describing Switching Deep Networks(SwiDeN) [](), which is a novel`deep depictive style-based switching mechanism which appropriately addresses the depiction-specific and depiction-invariant aspects of the problem.
+   ```bash
+   $ curl -s https://raw.githubusercontent.com/torch/ezinstall/master/install-deps | bash
+   $ git clone https://github.com/torch/distro.git ~/torch --recursive
+   $ cd ~/torch; 
+   $ ./install.sh      # and enter "yes" at the end to modify your bashrc
+   $ source ~/.bashrc
 
 
 ### License
 
 This code is released under the MIT License (Please refer to the LICENSE file for details).
-
+<!---
 ### Citation
 Please cite SwiDeN in your publications if it helps your research:
 
@@ -18,7 +24,7 @@ Please cite SwiDeN in your publications if it helps your research:
         Year = {2016}
     }
 
-
+--->
 ### Dependencies and Installation
 
 1. Code for SwiDeN is based on [CAFFE](http://caffe.berkeleyvision.org/). This code was tested on UBUNTU 14.04 on the folowing NVIDIA GPUs: NVIDIA TITAN X, NVIDIA K40, NVIDIA K20. 
