@@ -2,12 +2,6 @@
 
 
 This project is a CAFFE implementation for our ACMMM 2016 paper describing Switching Deep Networks(SwiDeN) [](), which is a novel`deep depictive style-based switching mechanism which appropriately addresses the depiction-specific and depiction-invariant aspects of the problem.
-   ```bash
-   $ curl -s https://raw.githubusercontent.com/torch/ezinstall/master/install-deps | bash
-   $ git clone https://github.com/torch/distro.git ~/torch --recursive
-   $ cd ~/torch; 
-   $ ./install.sh      # and enter "yes" at the end to modify your bashrc
-   $ source ~/.bashrc
 
 
 ### License
