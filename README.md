@@ -9,17 +9,17 @@ This project is a CAFFE implementation for our ACMMM 2016 paper describing Switc
 This code is released under the MIT License (Please refer to the LICENSE file for details).
 ### Citation
 Please cite SwiDeN in your publications if it helps your research:
+	
+	
 	@article{2016arXiv160708764K,
-   	author = {{Kiran Sarvadevabhatla}, R. and {Surya}, S. and {Kruthiventi}, S.~S. and 
-	{Babu R}, V.},
-         title = "{SwiDeN : Convolutional Neural Networks For Depiction Invariant Object Recognition}",
-        journal = {ArXiv e-prints},
-        archivePrefix = "arXiv",
+   	Author = {Kiran Sarvadevabhatla, Ravi and Surya, Shiv and Kruthiventi, Srinivas.~S and 
+	Babu R, Venkatesh},
+        Title = {SwiDeN : Convolutional Neural Networks For Depiction Invariant Object Recognition},
+        Journal = {ArXiv e-prints},
         eprint = {1607.08764},
-        primaryClass = "cs.CV",
-        keywords = {Computer Science - Computer Vision and Pattern Recognition},
-        year = 2016,
-        month = jul,
+        Keywords = {Computer Science - Computer Vision and Pattern Recognition},
+        Year = {2016},
+        Month = {july},
        }
 <!---
     @inproceedings{,
