@@ -1,7 +1,7 @@
 ### SwiDeN
 
 
-This project is a CAFFE implementation for our ACMMM 2016 paper describing Switching Deep Networks[SwiDeN](https://arxiv.org/abs/1607.08764), which is a novel`deep depictive style-based switching mechanism which appropriately addresses the depiction-specific and depiction-invariant aspects of the problem.
+This project is a CAFFE implementation for our ACMMM 2016 paper describing Switching Deep Networks([SwiDeN](https://arxiv.org/abs/1607.08764)), which is a novel`deep depictive style-based switching mechanism which appropriately addresses the depiction-specific and depiction-invariant aspects of the problem.
 
 
 ### License
