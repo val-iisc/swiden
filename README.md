@@ -48,4 +48,4 @@ We provide a link to the page on which the [Photo-Art-50 dataset](http://people.
 
 ### Q&A
 
-Please send message to ssurya@alumni.usc.edu if you have any query regarding the code.
+Please send message to shiv.surya314@gmail.com if you have any query regarding the code.
